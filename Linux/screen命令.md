@@ -44,7 +44,7 @@ screen [-AmRvx -ls -wipe][-d <作业名称>][-h <行数>][-r <作业名称>][-s 
 
 ---
 
-### 常用的screen参数
+### 常用screen参数
 ```
 screen -S yourname -> 新建一个叫yourname的session
 screen -ls -> 列出当前所有的session
@@ -116,7 +116,7 @@ screen -r 14062
 ---
 
 ### 杀死一个会话
-方法1: Ctrl + a -> k
+方法1: Ctrl + a -> k  
 方法2: Ctrl + a -> : -> 输入quit
 
 ---
