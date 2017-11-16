@@ -1,0 +1,4 @@
+### 打开允许任何来源选项
+```shell
+sudo spctl --master-disable
+```
